@@ -55,6 +55,7 @@ def main():
 	print("--------------------------")
 	for psc, arr in values:
 		print('%13d | %10d' % (psc-1, arr-1))
+	input('Please, Enter key...')
 
 
 if __name__ == "__main__":
