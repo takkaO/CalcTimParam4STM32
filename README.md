@@ -4,7 +4,7 @@
 Calcurate STM32's timer parameters, prescaller and autoreload.
 
 ## How to use
-Sample following.
+Sample following.  
 interrupt freq: 311 Hz  
 STM32 clock: full speed (168MHz)  
 ```
